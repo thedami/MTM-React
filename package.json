@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@blueprintjs/core": "^4.9.3",
+    "axios": "^0.27.2",
+    "express-handlebars": "^6.0.6",
+    "formik": "^2.2.9",
+    "react-bootstrap": "^2.5.0",
+    "react-router-dom": "^6.3.0",
+    "react-toastify": "^9.0.8",
+    "yup": "^0.32.11"
+  }
+}
